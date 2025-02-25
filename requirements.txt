@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pickle-mixin
+fpdf
+python-dotenv
+langchain
+langchain_groq
+openai
